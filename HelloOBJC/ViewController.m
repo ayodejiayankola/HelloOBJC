@@ -18,5 +18,8 @@
     // Do any additional setup after loading the view.
 }
 
+- (IBAction)clickBait:(id)sender {
+}
+
 
 @end
